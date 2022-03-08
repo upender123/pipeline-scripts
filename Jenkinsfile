@@ -1,12 +1,12 @@
 pipeline {
    
-   agent any {
 
       stages {
 
         stage("First Stage") {
 
           steps {
+
               script {
                        
                   def name = "upender"
@@ -25,5 +25,4 @@ pipeline {
 
       }
 
-    }
 }
