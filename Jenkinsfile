@@ -4,7 +4,7 @@ agent any
 
       stages {
 
-        stage("First Stage") {
+        stage("Stage1") {
 
           steps {
 
