@@ -17,7 +17,7 @@ pipeline {
                            println("end of the stage")
 
                   sleep 2
-                  echo "end of script"
+                  echo "end of the script"
               }
           }
 
