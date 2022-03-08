@@ -10,7 +10,7 @@ agent any
 
               retry(3) {
                   echo "Before throwing error"
-                  error "error"
+                  //error "error"
               }
                   echo "After throwing error"
           }
